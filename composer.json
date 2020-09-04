@@ -27,7 +27,7 @@
     "require": {
         "symfony/framework-bundle": "~2.7|~3.0|~4.0|~5.0",
         "symfony/security-bundle": "~2.7|~3.0|~4.0|~5.0",
-        "lightsaml/symfony-bridge": "dev-sf5"
+        "lightsaml/symfony-bridge-sf5": "dev-sf5"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
