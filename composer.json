@@ -21,7 +21,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/berny46/SymfonyBridgeBundle"
+            "url": "https://github.com/berny46/SymfonyBridgeBundle.git"
         }
     ],
     "require": {
